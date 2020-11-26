@@ -14,6 +14,7 @@ React Components Part 1
 React Components Part 2
 - [X] Make use of the Card component to display a list of items.
 - [X] Use the Card component to display detailed information.
+
 React Components Assignment
 Task 1:
 - [X] Add DishdetailComponent 
@@ -25,3 +26,5 @@ Task 2:
 - [X] Use Card component to display dishdetails.
 Task 3:
 - [X] Include a list of dishcomments into the dishdetail view.
+
+![Demo Project]()
