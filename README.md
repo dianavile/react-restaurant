@@ -16,15 +16,15 @@ React Components Part 2
 - [X] Use the Card component to display detailed information.
 
 React Components Assignment
-Task 1:
+- Task 1:
 - [X] Add DishdetailComponent 
 - [X] Include the DishDetail into MenuComponent to show the selected dish.
 - [X] Pass the selected dish as props to the DishDetail Component.
 - [X] Use appropriate Bootstrap classes to card (xs/sm screensizes= entire row, md+ screensizes 5 columns).
 - [X] Use appropriate Bootstrap classes to div containing the list of comments  (xs/sm screensizes= entire row, md+ screensizes 5 columns).
-Task 2:
+- Task 2:
 - [X] Use Card component to display dishdetails.
-Task 3:
+- Task 3:
 - [X] Include a list of dishcomments into the dishdetail view.
 
 ![Demo Project]()
