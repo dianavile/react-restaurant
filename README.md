@@ -27,4 +27,4 @@ React Components Assignment
 - Task 3:
 - [X] Include a list of dishcomments into the dishdetail view.
 
-![Demo Project]()
+![Demo Project](https://github.com/dianavile/react-restaurant/blob/main/react-restaurant.JPG)
